@@ -1,0 +1,1 @@
+SELECT DISTINCT age FROM users; --Muestra los valores de la columna 'age' que sean distintos de la tabla 'users'--
