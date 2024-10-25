@@ -1,0 +1,4 @@
+/*Sirve para que dos usuarios no accedan a la vez a la base de datos y
+genere un problema en la modificacion de los datos.
+
+Esto es trabajo del administrador de la base de datos*/
